@@ -1,4 +1,3 @@
-
 # Stack🌹
 
 Languages: Typescript & python
@@ -29,6 +28,3 @@ Online courses @ OneBitCode & @Rocketseat
 Linkedin: https://Linkedin.com/in/murilo-taue  
 Github: https://github.com/hidekily  
 email: murilotaue1@gmail.com
-
-
-
