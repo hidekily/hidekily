@@ -18,7 +18,7 @@ Sistemas @Senac Santo amaro - 2026/2030
 
 Completo/Completed:
 
-Ensino médio técnico em TI / IT technical high school @ Senac São Miguel Paulista
+Ensino médio técnico em TI / IT technical high school @ Senac São Miguel Paulista  
 International Diploma: Cybersec & Software Engineering @PSB Academy Singapore
 Online courses @ OneBitCode & @Rocketseat
 
