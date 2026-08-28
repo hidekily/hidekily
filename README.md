@@ -13,7 +13,8 @@ Oque eu mais gosto dentro da programação: Aprender conceitos novos, principalm
 
 # Formação/Education:
 
-Curso Atual/Current :
+Curso Atual/Current :  
+
 Sistemas @Senac Santo amaro - 2026/2030
 
 Completo/Completed:
